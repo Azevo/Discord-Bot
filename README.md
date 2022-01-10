@@ -1,5 +1,5 @@
 # Discord-Bot
-Um simples Bot para tocar musica e outras funções.
+Um simples Bot para tocar musica entre outras funções.
 
 
 
