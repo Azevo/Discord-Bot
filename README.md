@@ -16,15 +16,15 @@ Entre as demais bibliotecas usadas estão:
 
 Para a criação desse Bot foram importantes, os 5 vídeos da ByLearn sobre discord bot:
 
-  1 - Construindo um Bot para Discord com Python #1 - Primeiro Bot com o Discord.py (https://youtu.be/Pi5I-vVxPZw)
+- Construindo um Bot para Discord com Python #1 - Primeiro Bot com o Discord.py (https://youtu.be/Pi5I-vVxPZw)
 
-  2 - Construindo um Bot para Discord com Python #2 - Comandos avançados (https://youtu.be/YWdchyTqt5I)
+- Construindo um Bot para Discord com Python #2 - Comandos avançados (https://youtu.be/YWdchyTqt5I)
 
-  3 - Construindo um Bot para Discord com Python #3 - Embed, Reações e Permissões (https://youtu.be/F0CCzpYW3wg)
+- Construindo um Bot para Discord com Python #3 - Embed, Reações e Permissões (https://youtu.be/F0CCzpYW3wg)
 
-  4 - Construindo um Bot para Discord com Python #4 - Boas Práticas e Refatoramento (https://youtu.be/eZYpOTjFrX8)
+- Construindo um Bot para Discord com Python #4 - Boas Práticas e Refatoramento (https://youtu.be/eZYpOTjFrX8)
 
-  5 - Construindo um Bot para Discord com Python #5 - Publicando no Heroku (https://youtu.be/S5hQwZUNt9M)
+- Construindo um Bot para Discord com Python #5 - Publicando no Heroku (https://youtu.be/S5hQwZUNt9M)
 
 Foram utilizados também um vídeo da Robotic Nation:
 
