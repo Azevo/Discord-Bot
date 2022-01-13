@@ -1,7 +1,16 @@
 # Discord-Bot
-Um simples Bot para tocar musica entre outras funções.
 
+Um simples Bot que utiliza o Youtube dl e o FFmpeg para pegar músicas do Youtube e tocar em um canal de voz no Discord.
 
+Entre as demais bibliotecas usadas estão:
+
+- Discord.py, que permite o script em python acessar a API do discord (https://pypi.org/project/discord.py/)
+
+- Python-decouple, utilizado principalmente para buscar o Token do .env (https://pypi.org/project/python-decouple/)
+
+- Wikipedia, utilizado no comando "wiki" para buscar uma página da wikipédia (https://pypi.org/project/wikipedia/)
+
+- PyNaCL, utilizado para transmitir o som no canal de voz (https://pypi.org/project/PyNaCl/)
 
 
 
