@@ -54,8 +54,8 @@ async def tocar(ctx, *text):
                     discord.utils.get(client.voice_clients, guild=ctx.guild).play(music)
                     break                                               
 
-client.load_extension('Defs App')
-client.load_extension('Meme App')
+client.load_extension('comand1')
+client.load_extension('comand2')
 
 Token = decouple.config("TOKEN")
 client.run(Token)
