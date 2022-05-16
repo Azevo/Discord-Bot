@@ -2,4 +2,5 @@ discord.py
 python-decouple
 youtube_dl
 PyNaCL
+emoji
 ffmpeg
