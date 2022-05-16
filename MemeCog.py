@@ -2,9 +2,7 @@ import asyncio
 import discord
 from discord.ext import commands
 from discord import FFmpegPCMAudio
-import urllib.request
 import emoji
-import youtube_dl
 deck_generico_id = ''
 audio_data ={':police_officer:' : 'POLICIA',
              ':party_popper:' : 'MOMENTO',
